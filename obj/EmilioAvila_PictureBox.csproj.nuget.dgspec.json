@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Harve\\Desktop\\Ing. en Sistemas\\3er semestre\\Programacion2\\C#\\EmilioAvila_PictureBox\\EmilioAvila_PictureBox\\EmilioAvila_PictureBox.csproj": {}
+    "C:\\Users\\Harve\\Desktop\\Ing. en Sistemas\\Semestre3\\Programacion2\\C#\\VisualStudio\\EmilioAvila_PictureBox\\EmilioAvila_PictureBox\\EmilioAvila_PictureBox.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Harve\\Desktop\\Ing. en Sistemas\\3er semestre\\Programacion2\\C#\\EmilioAvila_PictureBox\\EmilioAvila_PictureBox\\EmilioAvila_PictureBox.csproj": {
+    "C:\\Users\\Harve\\Desktop\\Ing. en Sistemas\\Semestre3\\Programacion2\\C#\\VisualStudio\\EmilioAvila_PictureBox\\EmilioAvila_PictureBox\\EmilioAvila_PictureBox.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Harve\\Desktop\\Ing. en Sistemas\\3er semestre\\Programacion2\\C#\\EmilioAvila_PictureBox\\EmilioAvila_PictureBox\\EmilioAvila_PictureBox.csproj",
+        "projectUniqueName": "C:\\Users\\Harve\\Desktop\\Ing. en Sistemas\\Semestre3\\Programacion2\\C#\\VisualStudio\\EmilioAvila_PictureBox\\EmilioAvila_PictureBox\\EmilioAvila_PictureBox.csproj",
         "projectName": "EmilioAvila_PictureBox",
-        "projectPath": "C:\\Users\\Harve\\Desktop\\Ing. en Sistemas\\3er semestre\\Programacion2\\C#\\EmilioAvila_PictureBox\\EmilioAvila_PictureBox\\EmilioAvila_PictureBox.csproj",
+        "projectPath": "C:\\Users\\Harve\\Desktop\\Ing. en Sistemas\\Semestre3\\Programacion2\\C#\\VisualStudio\\EmilioAvila_PictureBox\\EmilioAvila_PictureBox\\EmilioAvila_PictureBox.csproj",
         "packagesPath": "C:\\Users\\Harve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Harve\\Desktop\\Ing. en Sistemas\\3er semestre\\Programacion2\\C#\\EmilioAvila_PictureBox\\EmilioAvila_PictureBox\\obj\\",
+        "outputPath": "C:\\Users\\Harve\\Desktop\\Ing. en Sistemas\\Semestre3\\Programacion2\\C#\\VisualStudio\\EmilioAvila_PictureBox\\EmilioAvila_PictureBox\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
